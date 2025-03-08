@@ -6,7 +6,7 @@
 
 ---
 
-![Data Science Banner](https://proeffico.com/wp-content/uploads/2023/10/e04182f6094f2764001c1df50b6a2971.gif)
+![Data Science Banner](https://miro.medium.com/v2/resize:fit:1200/0*dI-o8H3i0w66SpK7.gif)
 
 
 
