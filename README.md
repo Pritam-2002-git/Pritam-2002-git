@@ -6,7 +6,7 @@
 
 ---
 
-![Data Science Banner](https://miro.medium.com/v2/resize:fit:800/1*Cn5K-3unjAPzb_28f9tg5Q.gif)
+![Data Science Banner](https://miro.medium.com/v2/resize:fit:1400/0*Yb_BsikIKFAtuKj9.gif)
 
 
 
