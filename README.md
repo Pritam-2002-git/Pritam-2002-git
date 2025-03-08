@@ -6,6 +6,10 @@
 
 ---
 
+![Data Science Banner](https://proeffico.com/wp-content/uploads/2023/10/e04182f6094f2764001c1df50b6a2971.gif)
+
+
+
 ## 🚀 Overview
 
 Welcome to the **Data Science & AI** project! This repository showcases an AI-driven solution leveraging machine learning techniques, deep learning models, and data analysis tools to solve a real-world problem.
