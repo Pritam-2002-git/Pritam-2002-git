@@ -6,8 +6,7 @@
 
 ---
 
-![Data Science Banner](https://miro.medium.com/v2/resize:fit:1400/0*Yb_BsikIKFAtuKj9.gif)
-
+![Data Science Banner](https://media.licdn.com/dms/image/v2/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=rtLXIlbaUs8nhMnaC9aEv08PhyGTjFfwrgE8ZdCmziM)
 
 
 ## 🚀 Overview
